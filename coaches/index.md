@@ -1,8 +1,6 @@
-# Coaches
-
-## Head Coach
+### Head Coach
 * Jimmy Cestrone
 
-## Assistant Coaches
+### Assistant Coaches
 * Glen Bradish
 * Brian Rock
