@@ -3,11 +3,17 @@
 - title: Home
   url: /
 
-- title: Blog
-  url: /blog/
+- title: Roster
+  url: /roster/
 
-- title: Projects
-  url: /projects/
+- title: Coaches
+  url: /coaches/
 
-- title: About
-  url: /about/
+- title: Schedule
+  url: /schedule/
+  
+- title: Results
+url: /results/
+
+- title: Fields
+url: /fields/
