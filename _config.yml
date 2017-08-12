@@ -1,6 +1,6 @@
 # Site
-title:          Northeast Heat Gold - 12U
-bio:            'Northeast Heat'
+title:          Heat Gold
+bio:            'Northeast Heat Gold 12U'
 description:    "If you can't take the Heat, get off the field!"
 picture:        'assets/img/heat.jpg'
 locale:         en_US
@@ -57,7 +57,7 @@ facebook: username
 
 
 # Comments
-disqus_shortname: seanmerrow
+# disqus_shortname: seanmerrow
 
 
 # Gems
