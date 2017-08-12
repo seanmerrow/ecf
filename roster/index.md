@@ -1,7 +1,7 @@
 ## Roster
 
 |No  | Player |
-|:----:|--------|
+|:----:|:--------|
 | 1  |Kalie Disco|
 | 2  |Alyssa Abbott|
 | 4  |Elizabeth Rugg|
