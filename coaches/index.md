@@ -1,13 +1,8 @@
----
-layout: post-index
-title: All Posts
-excerpt: "A List of Posts"
----
 # Coaches
 
 ## Head Coach
-Jimmy Cestrone
+* Jimmy Cestrone
 
 ## Assistant Coaches
-Glen Bradish
-Brian Rock
+* Glen Bradish
+*Brian Rock
