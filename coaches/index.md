@@ -5,4 +5,4 @@
 
 ## Assistant Coaches
 * Glen Bradish
-*Brian Rock
+* Brian Rock
