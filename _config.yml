@@ -4,7 +4,7 @@ bio:            'Northeast Heat'
 description:    "If you can't take the Heat, get off the field!"
 picture:        'assets/img/heat.jpg'
 locale:         en_US
-url:            https://seanmerrow.github.io/heatgold
+url:            //seanmerrow.github.io/heatgold
 
 
 # Jekyll
