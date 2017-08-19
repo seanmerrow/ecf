@@ -1,7 +1,7 @@
 ---
 layout: post-index
 title: Tournaments
-path heatgold/schedule
+path: https://github.com/seanmerrow/heatgold/schedule
 tag:
 - tournament
 category:
