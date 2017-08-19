@@ -12,3 +12,4 @@
 | 17 |Olivia Rock|
 | ?  |Abby St. Laurent|
 | ?  |Jaelyn Green|
+| ?  |Carly DiMento|
