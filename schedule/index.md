@@ -1,7 +1,6 @@
 ---
 layout: post-index
-title: All Posts
-excerpt: "A List of Posts"
+title: Tournaments
 tag:
-  tournament
+- tournament
 ---
