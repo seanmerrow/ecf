@@ -1,5 +1,5 @@
 ---
-layout: project
-title: All Projects
-excerpt: "A List of Projects"
+layout: page
+title: All Pages
+excerpt: "A List of Pages"
 ---
