@@ -9,6 +9,7 @@ tag:
 category:
 - tournament
 ---
+# Schedule
 
 ## Barbara Hamilton Memorial Tournament
 * **Dates:** Oct 14-16
