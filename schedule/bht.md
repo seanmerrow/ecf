@@ -3,6 +3,7 @@ layout: page
 title:  "BHM Oct 11-13"
 date:   2017-08-13
 excerpt: "Barbara Hamilton Memorial Softball Tournament"
+permalink: /bht/
 tag:
 - tournament
 category:
