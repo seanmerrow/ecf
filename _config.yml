@@ -5,6 +5,7 @@ description:    "If you can't take the Heat, stay off the field!"
 picture:        'assets/img/heat.jpg'
 locale:         en_US
 url:            https://seanmerrow.github.io/heatgold
+categories: [tournament, player, coach, field]
 
 
 # Jekyll
