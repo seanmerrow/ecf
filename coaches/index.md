@@ -2,7 +2,7 @@
 layout: post
 title:  "The 12U Heat Gold Team"
 excerpt: "12U NE Heat Gold Team"
-permalink: /team/
+permalink: /coaches/
 ---
 # Players
 
