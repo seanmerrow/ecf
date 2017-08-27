@@ -6,15 +6,15 @@ permalink: /coaches/
 ---
 
 ### Head Coach
-* **Jimmy Cestrone**
+**Jimmy Cestrone**
 * 603-966-8041
 * jamces6@comcast.net
 
 ### Assistant Coaches
-* **Glen Bradish**
+**Glen Bradish**
 * phone number
 * gbradhish@myfairpoint.net
 
-* **Brian Rock**
+**Brian Rock**
 * 978-866-4785
 * brocknh75@outlook.com
