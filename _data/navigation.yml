@@ -3,10 +3,7 @@
 - title: Home
   url: /
 
-- title: Roster
-  url: /roster/
-
-- title: Coaches
+- title: Players & Coaches
   url: /coaches/
 
 - title: Schedule
@@ -14,3 +11,6 @@
   
 - title: Results
   url: /results/
+
+- title: Fields
+  url: /fields/
