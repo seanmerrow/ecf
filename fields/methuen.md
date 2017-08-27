@@ -2,9 +2,8 @@
 Layout: post
 Title: Methuen, MA – Burnham Road Softball Complex
 ---
-### Fields
-* Burnham Road Softball Complex
-* 21 Burnham Road, Methuen, MA 01844 
+### Burnham Road Softball Complex
+21 Burnham Road, Methuen, MA 01844 
 
 ### Directions
 1. Rte 111 East to Rte 93 South 
