@@ -3,7 +3,7 @@ Layout: post
 Title: Hudson, NH – Jette & Sousa Fields
 ---
 ###  Hudson, NH – Jette & Sousa Fields
-103 Gay St Manchester, NH 03103
+20 County Road Hudson, NH 03051
 
 ### Directions 
 **From Everett Turnpike Exit 2**
