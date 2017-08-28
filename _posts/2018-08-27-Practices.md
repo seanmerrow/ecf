@@ -5,7 +5,7 @@ description: Practice Schedule
 excerpt: "Practice Schedule"
 ---
 
-### September
+### August
 
 | Date | Time | Field |
 |:---|:---|:---|
