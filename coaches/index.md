@@ -11,14 +11,14 @@ permalink: /coaches/
 | 1  |Kalie Disco|
 | 2  |Alyssa Abbott|
 | 4  |Elizabeth Rugg|
+| 5  |Carly DiMento|
 | 6  |Faith Cestrone|
 | 7  |Maddy Bradish|
 | 9  |Skye Merrow|
-| 12 |Natelie Camerano|
+| 11 |Jaelyn Green|
+| 12 |Natalie Camerano|
 | 17 |Olivia Rock|
-| ?  |Abby St. Laurent|
-| ?  |Jaelyn Green|
-| ?  |Carly DiMento|
+| 21 |Abby St. Laurent|
 
 # Coaches
 ### Head Coach
@@ -28,7 +28,7 @@ permalink: /coaches/
 
 ### Assistant Coaches
 **Glen Bradish**
-* phone number
+* [603-714-1928](tel:+1-603-714-1928)
 * [gbradhish@myfairpoint.net](mailto:bbradish@myfairpoint.net)
 
 **Brian Rock**
