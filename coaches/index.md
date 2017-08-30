@@ -29,7 +29,7 @@ permalink: /coaches/
 ### Assistant Coaches
 **Glen Bradish**
 * [603-714-1928](tel:+1-603-714-1928)
-* [gbradhish@myfairpoint.net](mailto:bbradish@myfairpoint.net)
+* [gbradish@myfairpoint.net](mailto:gbradish@myfairpoint.net)
 
 **Brian Rock**
 * [978-866-4785](tel:+1-978-866-4785)
