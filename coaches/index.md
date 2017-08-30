@@ -8,7 +8,7 @@ permalink: /coaches/
 
 |No  | Player |
 |:----:|:--------|
-| 1  |Kalie Disco|
+| 1  |Kailey Disco|
 | 2  |Alyssa Abbott|
 | 4  |Elizabeth Rugg|
 | 5  |Carly DiMento|
