@@ -6,20 +6,20 @@ permalink: /coaches/
 ---
 # Players
 
-|No  | Player |
-|:----:|:--------|
-| 1  |Kailey Disco|
-| 2  |Alyssa Abbott|
-| 4  |Elizabeth Rugg|
-| 5  |Carly DiMento|
-| 6  |Faith Cestrone|
-| 7  |Maddy Bradish|
-| 9  |Skye Merrow|
-| 11 |Jaelyn Green|
-| 12 |Natalie Camerano|
-| 17 |Olivia Rock|
-| 21 |Abby St. Laurent|
-| ?? |Jorge Shaffer|
+|No    | Player          |
+|:----:|:----------------|
+| 1    |Kailey Disco     |
+| 2    |Alyssa Abbott    |
+| 4    |Elizabeth Rugg   |
+| 5    |Carly DiMento    |
+| 6    |Faith Cestrone   |
+| 7    |Maddy Bradish    |
+| 9    |Skye Merrow      |
+| 11   |Jaelyn Green     |
+| 12   |Natalie Camerano |
+| 17   |Olivia Rock      |
+| 21   |Abby St. Laurent |
+| ??   |Jorge Shaffer    |
 
 # Coaches
 ### Head Coach
