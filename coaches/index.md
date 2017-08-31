@@ -19,6 +19,7 @@ permalink: /coaches/
 | 12 |Natalie Camerano|
 | 17 |Olivia Rock|
 | 21 |Abby St. Laurent|
+| ?? |Jorge Shaffer|
 
 # Coaches
 ### Head Coach
