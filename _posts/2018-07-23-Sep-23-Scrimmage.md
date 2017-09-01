@@ -12,13 +12,13 @@ category:
 * **Location:** TBD
 * **Field(s):** TBD
 
-### Saturday
+## Game Time
 
-| Time | Opponent | Field |
-|:---|:---|:---|
-| TBD | TBD | TBD |
+| Time | Opponent |
+|:-----|:---------|
+| TBD  | ECF      |
 
-### Roster
+## Roster
 
 |No.|Player|Available|
 |:---|:---------|:---|
