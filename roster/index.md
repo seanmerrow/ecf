@@ -15,6 +15,6 @@ permalink: /roster/
 | 9  |Skye Merrow|
 | 12 |Natelie Camerano|
 | 17 |Olivia Rock|
-| ?  |Abby St. Laurent|
-| ?  |Jaelyn Green|
+| 21 |Abby St. Laurent|
+| 11 |Jaelyn Green|
 | ?  |Carly DiMento|
