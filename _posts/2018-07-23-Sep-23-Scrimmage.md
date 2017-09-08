@@ -14,9 +14,9 @@ category:
 
 ## Game Time
 
-| Time | Opponent         |
-|:-----|:-----------------|
-| 4:00  | Methuen Rangers |
+| Day | Time | Opponent         |
+|:----|:-----|:-----------------|
+| Sat | 4:00  | Methuen Rangers |
 
 ## Roster
 
