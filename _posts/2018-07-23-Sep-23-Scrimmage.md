@@ -1,22 +1,22 @@
 ---
 layout: post
-title: Sep ECF Scrimmage
-description: ECF Scrimmage
-excerpt: "ECF Scrimmage"
+title: Sept 23 - Scrimmage
+description: Methuen Rangers Scrimmage
+excerpt: "Methuen Rangers Scrimmage"
 tag:
 - scrimmage
 category:
 - scrimmage
 ---
-* **Dates:** Sep 16 or 23 (TBD)
+* **Dates:** Sep 23
 * **Location:** TBD
 * **Field(s):** TBD
 
 ## Game Time
 
-| Time | Opponent |
-|:-----|:---------|
-| TBD  | ECF      |
+| Time | Opponent         |
+|:-----|:-----------------|
+| 4:00  | Methuen Rangers |
 
 ## Roster
 
