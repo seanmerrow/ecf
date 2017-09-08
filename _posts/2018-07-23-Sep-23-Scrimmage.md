@@ -8,8 +8,8 @@ tag:
 category:
 - scrimmage
 ---
-* **Dates:** Sep 23
-* **Location:** TBD
+* **Dates:** Sept 23
+* **Location:** 21 Burnham Road, Methuen, MA 01844 
 * **Field(s):** [Burnham Road Softball Complex](https://seanmerrow.github.io/heatgold/fields/methuen)
 
 ## Game Time
