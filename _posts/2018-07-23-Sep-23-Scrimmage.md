@@ -10,7 +10,7 @@ category:
 ---
 * **Dates:** Sep 23
 * **Location:** TBD
-* **Field(s):** TBD
+* **Field(s):** [Burnham Road Softball Complex](https://seanmerrow.github.io/heatgold/fields/methuen)
 
 ## Game Time
 
