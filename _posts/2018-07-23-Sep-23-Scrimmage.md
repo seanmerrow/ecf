@@ -1,22 +1,22 @@
 ---
 layout: post
-title: Sep ECF Scrimmage
-description: ECF Scrimmage
-excerpt: "ECF Scrimmage"
+title: Sept 23 - Scrimmage
+description: Methuen Rangers Scrimmage
+excerpt: "Methuen Rangers Scrimmage"
 tag:
 - scrimmage
 category:
 - scrimmage
 ---
-* **Dates:** Sep 16 or 23 (TBD)
-* **Location:** TBD
-* **Field(s):** TBD
+* **Dates:** Sept 23
+* **Location:** 21 Burnham Road, Methuen, MA 01844 
+* **Field(s):** [Burnham Road Softball Complex](https://seanmerrow.github.io/heatgold/fields/methuen)
 
 ## Game Time
 
-| Time | Opponent |
-|:-----|:---------|
-| TBD  | ECF      |
+| Day | Time | Opponent         |
+|:----|:-----|:-----------------|
+| Sat | 4:00 PM  | Methuen Rangers |
 
 ## Roster
 
