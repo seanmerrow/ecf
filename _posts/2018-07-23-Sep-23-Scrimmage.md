@@ -10,13 +10,16 @@ category:
 ---
 * **Dates:** Sept 23
 * **Location:** 21 Burnham Road, Methuen, MA 01844 
-* **Field(s):** [Burnham Road Softball Complex](https://seanmerrow.github.io/heatgold/fields/methuen)
+* **Field:** [Burnham Road Softball Complex](https://seanmerrow.github.io/heatgold/fields/methuen)
+* Field 2
 
 ## Game Time
 
 | Day | Time | Opponent         |
 |:----|:-----|:-----------------|
-| Sat | 4:00 PM  | Methuen Rangers |
+| Sat | 3:30 PM  | Methuen Rangers |
+
+Be there at 2:30
 
 ## Roster
 
@@ -34,4 +37,3 @@ category:
 |17  |Olivia    |yes|
 |21  |Abby      |yes|
 |42  |Jorge     |yes|
-
