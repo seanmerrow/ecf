@@ -19,7 +19,7 @@ category:
 |:----|:-----|:-----------------|
 | Sat | 3:30 PM  | Methuen Rangers |
 
-Be there at 2:30
+** Be there at 2:30 **
 
 ## Roster
 
