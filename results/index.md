@@ -5,11 +5,13 @@ excerpt: "12U NE Heat Gold Results"
 permalink: /results/
 ---
 
-## Scrimmage
+## Scrimmages
 
-###Methuen  RangersSept 23
+9/23 Methuen Rangers
 
 Loss 8-11
+
+## Tournaments
 
 ### Cannon's Fall Brawl
 
