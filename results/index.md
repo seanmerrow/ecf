@@ -5,6 +5,12 @@ excerpt: "12U NE Heat Gold Results"
 permalink: /results/
 ---
 
+## Scrimmage
+
+###Methuen  RangersSept 23
+
+Loss 8-11
+
 ### Cannon's Fall Brawl
 
 |Date  | Opponent | W/L | Score |
