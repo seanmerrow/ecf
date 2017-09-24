@@ -7,9 +7,9 @@ permalink: /results/
 
 ## Scrimmages
 
-9/23 Methuen Rangers
-
-Loss 8-11
+|Date  | Opponent | W/L | Score |
+|:----:|:--------|:----:|:----|
+|9/23|Rangers|L|8-11|
 
 ## Tournaments
 
