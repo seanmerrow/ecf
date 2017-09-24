@@ -9,7 +9,7 @@ permalink: /results/
 
 |Date  | Opponent | W/L | Score |
 |:----:|:--------|:----:|:----|
-|9/23|Rangers|L|8-11|
+|9/23|Rangers|<span style="color:red">L</span>|<span style="color:red">8-11</span>|
 
 ## Tournaments
 
