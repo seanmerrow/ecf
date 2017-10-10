@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Allenstown, NH - Volunteers Park
+title: Volunteers Park
+description: Volunteers Park
+excerpt: "Volunteers Parkl"
 ---
 ### Address
 118 River Road, Allenstown, NH
