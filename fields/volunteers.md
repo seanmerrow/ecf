@@ -2,7 +2,7 @@
 layout: post
 title: Volunteers Park
 description: Volunteers Park
-excerpt: "Volunteers Parkl"
+excerpt: "Volunteers Park"
 ---
 ### Address
 118 River Road, Allenstown, NH
