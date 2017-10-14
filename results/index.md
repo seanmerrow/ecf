@@ -17,7 +17,6 @@ permalink: /results/
 
 |Date  | Opponent | W/L | Score |
 |:----:|:--------|:----|:----|
-<<<<<<< HEAD
 | 10/14  |Lightening | L | 1-6 |
 | 10/14  |Comets  | ? | x-y |
 | 10/14  |TBD | ? | x-y |
