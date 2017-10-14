@@ -23,4 +23,3 @@ permalink: /results/
 | 10/15  |TBD        |<span style="color:green">W</span>|<span style="color:green">x-y</span>|
 | 10/15  |TBD        |<span style="color:green">W</span>|<span style="color:green">x-y</span>|
 | 10/15  |TBD        |<span style="color:green">W</span>|<span style="color:green">x-y</span>|
->>>>>>> branch 'master' of https://github.com/seanmerrow/heatgold
