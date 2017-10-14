@@ -17,14 +17,7 @@ permalink: /results/
 
 |Date  | Opponent | W/L | Score |
 |:----:|:--------|:----|:----|
-| 10/14  |Lightening | L | 1-6 |
-| 10/14  |Comets  | ? | x-y |
-| 10/14  |TBD | ? | x-y |
-| 10/15  |TBD | ? | x-y |
-| 10/15  |TBD | ? | x-y |
-| 10/15  |TBD | ? | x-y |
-=======
-| 10/14  |Lightening |<span style="color:green">W</span>|<span style="color:green">x-y</span>|
+| 10/14  |Lightening |<span style="color:red">W</span>|<span style="color:red">1-6</span>|
 | 10/14  |Comets     |<span style="color:green">W</span>|<span style="color:green">x-y</span>|
 | 10/14  |Plex       |<span style="color:green">W</span>|<span style="color:green">x-y</span>|
 | 10/15  |TBD        |<span style="color:green">W</span>|<span style="color:green">x-y</span>|
