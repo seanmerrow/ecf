@@ -1,4 +1,4 @@
-Ki---
+---
 layout: post
 title:  "Team Results"
 excerpt: "12U NE Heat Gold Results"
@@ -20,6 +20,6 @@ permalink: /results/
 | 10/14  |Lightening |<span style="color:red">W</span>|<span style="color:red">1-6</span>|
 | 10/14  |Comets     |<span style="color:green">W</span>|<span style="color:green">4-2</span>|
 | 10/14  |Plex       |<span style="color:green">W</span>|<span style="color:green">1-0</span>|
-| 10/15  |TBD        |<span style="color:green">W</span>|<span style="color:green">x-y</span>|
+| 10/15  |Comets        |<span style="color:green">W</span>|<span style="color:green">x-y</span>|
 | 10/15  |TBD        |<span style="color:green">W</span>|<span style="color:green">x-y</span>|
 | 10/15  |TBD        |<span style="color:green">W</span>|<span style="color:green">x-y</span>|
