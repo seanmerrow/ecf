@@ -2,7 +2,7 @@
 Layout: post
 Title: Manchester, NH – Youngsville Park
 ---
-### Manchester, NH – Youngsville Park
+### Address
 Candia St Manchester, NH 03103
 
 ### Directions
