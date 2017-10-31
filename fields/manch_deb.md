@@ -2,7 +2,7 @@
 Layout: post
 Title: Manchester, NH – South Jr Deb Fields
 ---
-###  Manchester, NH – South Jr Deb Fields
+###  Address
 103 Gay St Manchester, NH 03103
 
 ### Directions
