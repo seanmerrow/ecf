@@ -1,6 +1,8 @@
 ---
-Layout: post
-Title: Methuen, MA – Burnham Road Softball Complex
+layout: post
+title: Burnham Road Softball Complex
+description: Burnham Road Softball Complex
+excerpt: "Burnham Road Softball Complex"
 ---
 ### Address
 21 Burnham Road, Methuen, MA 01844 
