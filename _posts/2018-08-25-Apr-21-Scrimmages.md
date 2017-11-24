@@ -9,11 +9,12 @@ category:
 - scrimmage
 ---
 * **Dates:** April 21
-* **Location:** 21 Burnham Road, Methuen, MA 01844 
-* **Field:** [Burnham Road Softball Complex](https://seanmerrow.github.io/heatgold/fields/methuen)
-* Field 2
+* **Location:** 
+* **Field:** 
 
 ## Game Time
+
+<span style="color:red">**Be there 1 hour before each game**</span>
 
 | Day | Time | Opponent         |
 |:----|:-----|:-----------------|
@@ -21,21 +22,20 @@ category:
 | Sat | TBD  | TBD |
 | Sat | TBD  | TBD |
 
-** Be there at 2:30 **
 
 ## Roster
 
 |No.|Player|Available|
 |:---|:---------|:---|
-|1   |Kailey    |yes|
-|2   |Alyssa    |yes|
-|4   |Elizabeth |yes|
-|5   |Carly     |yes|
-|6   |Faith     |yes|
-|7   |Maddy     |yes|
-|9   |Skye      |yes|
-|11  |Jaelyn    |yes|
-|12  |Natalie   |yes|
-|17  |Olivia    |yes|
-|21  |Abby      |yes|
-|42  |Jorge     |yes|
+|1   |Kailey    |<span style="color:green">**Yes**</span>|
+|2   |Alyssa    |<span style="color:green">**Yes**</span>|
+|4   |Elizabeth |<span style="color:green">**Yes**</span>|
+|5   |Carly     |<span style="color:green">**Yes**</span>|
+|6   |Faith     |<span style="color:green">**Yes**</span>|
+|7   |Maddy     |<span style="color:green">**Yes**</span>|
+|9   |Skye      |<span style="color:green">**Yes**</span>|
+|11  |Jaelyn    |<span style="color:green">**Yes**</span>|
+|12  |Natalie   |<span style="color:green">**Yes**</span>|
+|17  |Olivia    |<span style="color:green">**Yes**</span>|
+|21  |Abby      |<span style="color:green">**Yes**</span>|
+|42  |Jorge     |<span style="color:green">**Yes**</span>|
