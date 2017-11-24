@@ -9,10 +9,7 @@ category:
 - scrimmage
 ---
 * **Dates:** April 21
-* **Location:** Concord-Carlisle High School 
-* **Address:** 500 Walden St. Concord, MA 01742 
-
-[Directions](https://seanmerrow.github.io/heatgold/fields/concord-carlisle)  
+* **Location:** Concord, MA [Directions](https://seanmerrow.github.io/heatgold/fields/concord-carlisle)  
 
 ## Game Time
 
