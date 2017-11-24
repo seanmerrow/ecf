@@ -5,7 +5,7 @@ description: Gametime Fitness Center
 excerpt: "Gametime Fitness Center"
 ---
 ### Address
-118 River Road, Allenstown, NH
+1703 Middlesex St, Lowell, MA 01851
 
 ### Directions
 1. Take Rte 3 South to Exit 33
