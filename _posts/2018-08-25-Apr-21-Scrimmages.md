@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Sept 23 - Scrimmage
-description: Methuen Rangers Scrimmage
-excerpt: "Methuen Rangers Scrimmage"
+title: Apr 21 - Scrimmages
+description: Concord/Carlyle Scrimmages
+excerpt: "Concord/Carlyle Scrimmage"
 tag:
 - scrimmage
 category:
 - scrimmage
 ---
-* **Dates:** Sept 23
+* **Dates:** April 21
 * **Location:** 21 Burnham Road, Methuen, MA 01844 
 * **Field:** [Burnham Road Softball Complex](https://seanmerrow.github.io/heatgold/fields/methuen)
 * Field 2
@@ -17,7 +17,9 @@ category:
 
 | Day | Time | Opponent         |
 |:----|:-----|:-----------------|
-| Sat | 3:30 PM  | Methuen Rangers |
+| Sat | TBD  | TBD |
+| Sat | TBD  | TBD |
+| Sat | TBD  | TBD |
 
 ** Be there at 2:30 **
 
