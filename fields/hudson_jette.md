@@ -1,6 +1,8 @@
 ---
-Layout: post
-Title: Hudson, NH – Jette & Sousa Fields
+layout: post
+title: Jette Sousa Fields
+description: Jette Sousa Fields
+excerpt: "Jette Sousa Fields"
 ---
 ###  Address
 20 County Road Hudson, NH 03051
