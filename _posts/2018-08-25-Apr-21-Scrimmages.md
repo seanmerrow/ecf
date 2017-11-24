@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Apr 21 - Scrimmages
-description: Concord/Carlyle Scrimmages
-excerpt: "Concord/Carlyle Scrimmage"
+description: Concord-Carlisle Scrimmages
+excerpt: "Concord-Carlisle Scrimmage"
 tag:
 - scrimmage
 category:
@@ -10,7 +10,10 @@ category:
 ---
 * **Dates:** April 21
 * **Location:** 
-* **Field:** 
+Concord-Carlisle High School 
+500 Walden St.
+Concord, MA 01742 
+[Directions](https://seanmerrow.github.io/heatgold/fields/concord-carlisle)  
 
 ## Game Time
 
