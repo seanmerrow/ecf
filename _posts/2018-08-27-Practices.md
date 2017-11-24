@@ -11,7 +11,7 @@ excerpt: "Practice Schedule"
 * 1703 Middlesex St, Lowell, MA 01851
 * [Directions](https://seanmerrow.github.io/heatgold/fields/gametime)
 
-Sunday mornings fro 7:00 AM to 9:00 AM
+Sunday mornings from 7:00 AM to 9:00 AM
 
 Looking to add a second practice each week, so stay tuned!
 
