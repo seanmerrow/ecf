@@ -8,7 +8,7 @@ excerpt: "Gilman-Waite Fields"
 Michaels Lane, Baldwinville, MA
 
 ### Directions
-1. Rt2 3 South to I-495 South
+1. Rte 3 South to I-495 South
 2. I-495 South for 11.3 miles to Exit 29B Rte 2 West
 3. After approx. 31 miles, take Exit 20 for Baldwinville Rd toward Templeton/Baldwinville
 4. Turn right onto Baldwinville Road and follow for 2.5 miles
