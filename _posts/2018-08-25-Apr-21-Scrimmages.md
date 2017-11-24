@@ -9,7 +9,8 @@ category:
 - scrimmage
 ---
 * **Dates:** April 21
-* **Location:** Concord, MA [Directions](https://seanmerrow.github.io/heatgold/fields/concord-carlisle)  
+* **Location:** Concord, MA 
+* [Directions](https://seanmerrow.github.io/heatgold/fields/concord-carlisle)  
 
 ## Game Time
 
