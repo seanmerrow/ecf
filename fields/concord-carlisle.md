@@ -1,6 +1,8 @@
 ---
-Layout: post
-Title: Concord, MA – Concord-Carlisle High School
+layout: post
+title: Concord-Carlisle High School
+description: Concord-Carlisle High School
+excerpt: "Concord-Carlisle High School"
 ---
 ### Address
 500 Walden St. Concord, MA 01742
