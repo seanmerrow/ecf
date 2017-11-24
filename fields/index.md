@@ -5,6 +5,10 @@ title: Fields
 
 [Allenstown, NH – Volunteers Park](https://seanmerrow.github.io/heatgold/fields/volunteers)
 
+[Baldwinville, MA – Gilman-Waite Fields](https://seanmerrow.github.io/heatgold/fields/gilman-waite)
+
+[Concord, MA – Concord-Carlisle High School](https://seanmerrow.github.io/heatgold/fields/concord-carlisle)
+
 [Hudson, NH – Jette & Sousa Fields](https://seanmerrow.github.io/heatgold/fields/hudson_jette)
 
 [Manchester, NH – South Jr Deb Fields](https://seanmerrow.github.io/heatgold/fields/manch_deb)
