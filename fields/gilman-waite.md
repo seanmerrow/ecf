@@ -1,6 +1,8 @@
 ---
-Layout: post
-Title: Baldwinville, MA – Gilman-Waite Fields
+layout: post
+title: Gilman-Waite Fields
+description: Gilman-Waite Fields
+excerpt: "Gilman-Waite Fields"
 ---
 ### Address
 Michaels Lane, Baldwinville, MA
