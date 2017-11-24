@@ -5,24 +5,12 @@ description: Practice Schedule
 excerpt: "Practice Schedule"
 ---
 
-### August
+### Winter Workouts
 
-| Date | Time | Field |
-|:---|:---|:---|
-| Sat 8/26 | 9:00 | Sousa |
-| Mon 8/28 | 6:00 | Sousa |
+* **Gametime Sports and Fitness Center**
+* 1703 Middlesex St, Lowell, MA 01851
 
-### September
+Sunday mornings fro 7:00 AM to 9:00 AM
 
-| Date | Time | Field |
-|:---|:---|:---|
-| Wed 9/6  | 6:00 | Sousa |
-| Mon 9/11 | 6:00 | Sousa |
-| Mon 9/18 | 6:00 | Sousa |
-| Wed 9/27 | 6:00 | Sousa |
+Looking to add a second practice each week, so stay tuned!
 
-### October
-
-| Date | Time | Field |
-|:---|:---|:---|
-| TBD | TBD | TBD |
