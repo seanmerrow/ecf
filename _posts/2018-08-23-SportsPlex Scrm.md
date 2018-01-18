@@ -9,7 +9,7 @@ category:
 - scrimmage
 ---
 * **Dates:** Fridays Feb 2 - Mar 9
-* **Location:** SNH portsplex Bedford, NH
+* **Location:** NH Sportsplex Bedford, NH
 * [Directions](https://seanmerrow.github.io/heatgold/fields/sportsplex)  
 
 ## Game Time
