@@ -16,7 +16,7 @@ category:
 
 <span style="color:red">**Be there 40 minutes before each game**</span>
 
-| Date | Game | Field    |
+| Date | Time | Field    |
 |:-----|:-----|:---------|
 | 2/2  | 8:00 | Bar Side |
 | 2/9  | 8:00 | Far Side |
