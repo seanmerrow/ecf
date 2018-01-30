@@ -16,12 +16,12 @@ category:
 
 <span style="color:red">**Be there 40 minutes before each game**</span>
 
-| Date | Time | Field    |
-|:-----|:-----|:---------|
-| 2/2  | 8:00 | Bar Side |
-| 2/9  | 8:00 | Far Side |
-| 2/16 | 7:00 | Bar Side |
-| 2/23 | 7:00 | Bar Side |
-| 3/2  | 7:00 | Far Side |
-| 3/9  | 7:00 | Bar Side |
+| Date | Warmup  | Game | Field    |
+|:-----|:--------|:-----|----------|
+| 2/2  | 7:30 | 8:00 | Bar Side |
+| 2/9  | 7:30 | 8:00 | Far Side |
+| 2/16 | 6:30 | 7:00 | Bar Side |
+| 2/23 | 6:30 | 7:00 | Bar Side |
+| 3/2  | 6:30 | 7:00 | Far Side |
+| 3/9  | 6:30 | 7:00 | Bar Side |
 
