@@ -36,7 +36,7 @@ of the game part of her warm-up.
 * The catcher, whether that be a parent, coach or team catcher should
 let the pitcher go through her full warm-up routine at her own pace. She 
 doesn't need to be told when to move to the next drill, when to practice 
-different pitches, and when to stop. of course the warm-up works both ways. 
+different pitches, and when to stop. Of course the warm-up works both ways. 
 If the catcher wants to work on something with the pitcher, she should 
 communicate that so both are happy with the warm-up.
 * If she won't be the starting pitcher, but will be pitching later in the
