@@ -5,7 +5,7 @@ description: Pitching
 excerpt: "Pitching"
 ---
 # Introduction
-At the risk of sounding like a premadonna parent of a premadonna pitcher, 
+At the risk of sounding like a prima donna parent of a prima donna pitcher, 
 I've decided to put down some thoughts on fastpitch softball pitching. My
 hope is that some other parent or coach may find this useful.
 
