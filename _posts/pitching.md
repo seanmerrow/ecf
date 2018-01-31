@@ -32,7 +32,7 @@ Here are some tips on the warm-up.
 overhand catch for a bit.
 * Your pitcher has a warm-up routine. Let her go through it in full. If 
 the warm up is rushed, then you're simply making the first several pitches 
-of her game part of her warm-up. 
+of the game part of her warm-up. 
 * The catcher, whether that be a parent, coach or team catcher should
 let the pitcher go through her full warm-up routine at her own pace. She 
 doesn't need to be told when to move to the next drill, when to practice 
