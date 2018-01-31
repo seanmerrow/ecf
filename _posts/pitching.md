@@ -9,10 +9,7 @@ At the risk of sounding like a prima donna parent of a prima donna pitcher,
 I've decided to put down some thoughts on fastpitch softball pitching. My
 hope is that some other parent or coach may find this useful. Everything in
 this article would apply to just about every pitcher, not just my daughter.
-
-My daughter has been a softball pitcher for several years now, but has only
-been getting professional training for about a year and a half. These thoughts
-are based on the following:
+These thoughts are based on the following:
 
 * Listening to her pitching coach as she coaches my daughter
 * Listening to her team coaches as they coach her while pitching
