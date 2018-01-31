@@ -61,13 +61,13 @@ it is okay to call timeout and go to the mound.
 what she's doing wrong, rather than shouting it out in front of everyone.
 * Give constructive feedback, that she can act on, if she's missing a lot:
     * If she's aiming, tell her to pitch full speed every pitch...be explosive
-    * If she's leaning back, or bending forward, when throwing the pitch, tell her to push out hard,
-    stand tall, with weight forward
+    * If she's leaning back, or bending forward, when throwing the pitch, tell 
+    her to push out hard, stand tall, with weight forward
     * If her backswing is going behind her back or causing her shoulders to turn,
     tell her to straighten her arm circle and keep her shoulders squared off with 
     the catcher
-    * If here drag foot is not following through, tell her to bring up to her
-    front leg and it should reach her front leg before the ball gets to the catcher
+    * If her drag foot is not following through, tell her it should reach her 
+    front leg before the ball gets to the catcher
     * If she's falling to one side after her pitch, tell her to straighten out
     and land balanced
 
