@@ -21,7 +21,7 @@ You can see the common theme here is listening.
 There are many things that a parent and/or coach can do to help a pitcher. Not
 all of them require that they know a lot about pitching. Note that the following
 tips are assuming pitcher has received some specialized training and has
-achieved some decent level of experience and may not apply to beginner pitchers
+achieved some level of experience and may not apply to beginner pitchers
 below 12U.
 
 # The Warm-up
