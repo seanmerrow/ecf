@@ -21,8 +21,7 @@ You can see the common theme here is listening.
 There are many things that a parent and/or coach can do to help a pitcher. Not
 all of them require that they know a lot about pitching. Note that the following
 tips are assuming pitcher has received some specialized training and has
-achieved some level of experience and may not apply to beginner pitchers
-below 12U.
+achieved some level of experience and they may not apply to beginner pitchers.
 
 # The Warm-up
 The warm-up is very important in avoiding injury as well as getting her dialed-in. 
@@ -80,10 +79,11 @@ want her to fix it. Here are some examples of things that are not helpful.
 * Shouting to the pitcher "Fix it!". This is not constructive, implies that she 
 needs to be told to fix it, and isn't advice she can act on. Trust me, she's 
 trying to fix it.
-* Shouting "Focus on the target/glove!". This was appropriate in 8U and 10U, but she's
-not only focusing on the target, she's focusing the the 'spot' of the target. If
-you really feel her focus on the target is a concern, check that she is actually 
-getting a target and that the target is steady and not moving around.
+* Shouting "Focus on the target/glove!". This is often helpful for beginner pitchers, 
+but trained and experienced pitchers are not only focusing on the target, she's 
+focusing the the 'spot' of the target. If you really feel her focus on the target is 
+a concern, check that she is actually getting a target and that the target is steady 
+and not moving around.
 * Shouting negative comments such as "You're killing me!", shaking your head, putting
 your head in your hands, etc. This will only add to the stress she's dealing with and 
 will likely only make matters worse.
