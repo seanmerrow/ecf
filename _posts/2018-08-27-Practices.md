@@ -5,18 +5,12 @@ description: Practice Schedule
 excerpt: "Practice Schedule"
 ---
 
-
-
-## Winter Workouts
-
-### Where
-* **Gametime Sports and Fitness Center**
-* 1703 Middlesex St, Lowell, MA 01851
-* [Directions](https://seanmerrow.github.io/heatgold/fields/gametime)
-
-### When
-* **Starts:** Sunday January 7th
-* **Time:** 7:00 AM to 9:00 AM
-
-Looking to add a second practice each week, so stay tuned!
-
+| Date | Time | Location                                                                     |
+|:---  |:---           |:---                                                                 |
+| 3/25  | 7-9 AM       | [Gametime](https://seanmerrow.github.io/heatgold/fields/gametime)   |
+| 4/7   | 9-11 AM      | Jette/Sousa                                                         |
+| 4/8   | 7-9 AM       | [Gametime](https://seanmerrow.github.io/heatgold/fields/gametime)   |
+| 4/14  | 9-11 AM      | Jette/Sousa                                                         |
+| 4/21  | 9-11 AM      | Jette/Sousa                                                         |
+| 4/28  | 9-11 AM      | Jette/Sousa                                                         |
+| 5/5   | 9-11 AM      | Jette/Sousa                                                         |
