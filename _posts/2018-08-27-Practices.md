@@ -5,6 +5,8 @@ description: Practice Schedule
 excerpt: "Practice Schedule"
 ---
 
+
+
 ## Winter Workouts
 
 ### Where
