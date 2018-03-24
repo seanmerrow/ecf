@@ -17,4 +17,6 @@ title: Fields
 
 [Methuen, MA – Burnham Road Softball Complex](https://seanmerrow.github.io/heatgold/fields/methuen)
 
+[Milford, NH – Hampshire Dome](https://seanmerrow.github.io/heatgold/fields/hamphsire-dome)
+
 [Nashua, NH – Roby Park](https://seanmerrow.github.io/heatgold/fields/roby)
