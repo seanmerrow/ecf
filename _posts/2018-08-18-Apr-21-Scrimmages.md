@@ -8,7 +8,7 @@ tag:
 category:
 - scrimmage
 ---
-* **Dates:** April 21
+* **Dates:** Sat April 21
 * **Location:** Concord, MA 
 * [Directions](https://seanmerrow.github.io/heatgold/fields/concord-carlisle)  
 
@@ -16,9 +16,9 @@ category:
 
 <span style="color:red">**Be there 1 hour before each game**</span>
 
-| Day | Time | Opponent         |
-|:----|:-----|:-----------------|
-| Sat | TBD  | TBD |
-| Sat | TBD  | TBD |
-| Sat | TBD  | TBD |
+| Time  | Opponent          | Field |
+|:------|:------------------|:------|
+| 8:30  | Crushers          | Rear  |
+| 10:15 | Raiders           | Rear  |
+| 1:45  | Hurricanes Nashua | Rear  |
 
