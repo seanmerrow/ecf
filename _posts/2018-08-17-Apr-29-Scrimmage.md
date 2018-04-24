@@ -9,8 +9,8 @@ category:
 - scrimmage
 ---
 * **Dates:** Sun April 29
-* **Location:** Kiwanis
-* [Directions](https://seanmerrow.github.io/heatgold/fields/concord-carlisle)  
+* **Location:** Kiwanis Field
+* [Directions](https://seanmerrow.github.io/heatgold/fields/kiwanis)  
 
 ## Game Time
 
