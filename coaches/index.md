@@ -19,6 +19,7 @@ permalink: /coaches/
 | 12   |Natalie Camerano |
 | 17   |Olivia Rock      |
 | 21   |Abby St. Laurent |
+| 27   |Sydney Poor |
 | 42   |Isabella 'Jorge' Shaffer|
 
 # Coaches
