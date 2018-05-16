@@ -2,6 +2,13 @@
 title:  "BBMT"
 ---
 
+## Summary
+
+* We held the other teams to 7 runs in all 3 games
+* Our average runs scored was 2.3 (2, 2, 3)
+* Of only 12 hits, Eliz had 5 of them. Only one other player got more than 1
+* Our pitchers gave up a lot more hits and walks, but had more K's
+
 ## Hitting (All 3 Games)
 
 |Team      |H    |BB   |K     |
@@ -28,6 +35,12 @@ title:  "BBMT"
 
 
 ## Pitching
+
+|Team      | H   | BB  | K   |
+|:---------|:---:|:---:|:---:|
+|Heat      |20   |16   |24   |
+|Opponents |12   |7    |21   |
+
 
 |Name      | IP  | H   | BB  | K   |
 |:---------|:---:|:---:|:---:|:---:|
