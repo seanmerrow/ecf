@@ -38,10 +38,9 @@ permalink: /results/
 
 |Date  | Opponent | W/L | Score |
 |:----:|:--------|:----|:----|
-| 5/11  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 5/12  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 5/12  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 5/13  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 5/12  |Plex    |<span style="color:red">L</span>|<span style="color:red">7-3</span>|
+| 5/13  |Cannons |<span style="color:red">L</span>|<span style="color:red">7-2</span>|
+| 5/13  |Plex    |<span style="color:red">L</span>|<span style="color:red">7-2</span>|
 
 
 ### Mass Destruction May Mayhem
