@@ -2,11 +2,6 @@
 title:  "BBMT"
 ---
 
-## Summary
-
-
-
-
 ## Hitting (All 3 Games)
 
 |Team      |H    |BB   |K     |
