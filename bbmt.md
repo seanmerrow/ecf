@@ -17,6 +17,9 @@ title:  "BBMT"
 |Opponents |20	 |16   |24    | 
 
 
+### Breakdown
+
+
 |Name      |H    |BB   |K     |
 |:---------|:---:|:---:|:----:|
 |Carly     |-	   |3	   |3     | 
@@ -42,8 +45,11 @@ title:  "BBMT"
 |Opponents |12   |7    |21   |
 
 
+### Breakdown
+
+
 |Name      | IP  | H   | BB  | K   |
 |:---------|:---:|:---:|:---:|:---:|
-| Jorge    |H    |12   |9    |14   |
-| Kailey   |A    |6    |3    |6    |
-| Skye     |H    |2    |4    |4    |
+| Jorge    |8.2  |12   |9    |14   |
+| Kailey   |4.2  |6    |3    |6    |
+| Skye     |1.2  |2    |4    |4    |
