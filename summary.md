@@ -7,8 +7,7 @@ title:  "Summary"
 * 5 Games Played
 * We held the other teams to 7 runs in all 5 games
 * Our average runs scored is 3
-* Of only 12 hits, Eliz had 5 of them. Only one other player got more than 1
-* Our pitchers gave up a lot more hits and walks, but K's are equal
+* Our pitchers gave up a lot more hits and walks, but K's are roughly equal
 
 ## Hitting (All Games)
 
@@ -42,8 +41,8 @@ title:  "Summary"
 
 |Team      | H   | BB  | K   | ER  |
 |:---------|:---:|:---:|:---:|:---:|
-|Heat      |30   |21   |27   |26   |
-|Opponents |15   |7    |27   |2    |
+|Heat      |41   |22   |30   |26   |
+|Opponents |27   |9    |32   |8    |
 
 
 ### Breakdown
