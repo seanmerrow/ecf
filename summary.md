@@ -4,6 +4,7 @@ title:  "Summary"
 
 ## Summary
 
+* 4 Games Played
 * We held the other teams to 7 runs in all 4 games
 * Our average runs scored is 2
 * Of only 12 hits, Eliz had 5 of them. Only one other player got more than 1
@@ -11,10 +12,10 @@ title:  "Summary"
 
 ## Hitting (All 3 Games)
 
-|Team      |H    |BB   |K     |
-|:---------|:---:|:---:|:----:|
-|Heat      |15	 |7	   |27    | 
-|Opponents |30	 |21   |27    | 
+|Team      |R    |H    |BB   |K     |
+|:---------|:---:|:---:|:---:|:----:|
+|Heat      |8    |15	 |7	   |27    | 
+|Opponents |28   |30	 |21   |27    | 
 
 
 ### Breakdown
@@ -39,17 +40,17 @@ title:  "Summary"
 
 ## Pitching
 
-|Team      | H   | BB  | K   |
-|:---------|:---:|:---:|:---:|
-|Heat      |30   |21   |27   |
-|Opponents |15   |7    |27   |
+|Team      | H   | BB  | K   | ER  |
+|:---------|:---:|:---:|:---:|:---:|
+|Heat      |30   |21   |27   |26   |
+|Opponents |15   |7    |27   |2    |
 
 
 ### Breakdown
 
 
-|Name      | IP  | H   | BB  | K   |
-|:---------|:----:|:---:|:---:|:---:|
-| Jorge    |11.2  |20   |14   |17   |
-| Kailey   |7.1   |8    |3    |6    |
-| Skye     |1.2   |2    |4    |4    |
+|Name      | IP   | H   | BB  | K   |ER   |
+|:---------|:----:|:---:|:---:|:---:|:---:|
+| Jorge    |11.2  |20   |14   |17   |18   |
+| Kailey   |7.1   |8    |3    |6    |4    |
+| Skye     |1.2   |2    |4    |4    |4    |
