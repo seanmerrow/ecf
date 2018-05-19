@@ -4,9 +4,9 @@ title:  "Summary"
 
 ## Summary
 
-* 4 Games Played
-* We held the other teams to 7 runs in all 4 games
-* Our average runs scored is 2
+* 5 Games Played
+* We held the other teams to 7 runs in all 5 games
+* Our average runs scored is 3
 * Of only 12 hits, Eliz had 5 of them. Only one other player got more than 1
 * Our pitchers gave up a lot more hits and walks, but K's are equal
 
@@ -14,8 +14,8 @@ title:  "Summary"
 
 |Team      |R    |H    |BB   |K     |
 |:---------|:---:|:---:|:---:|:----:|
-|Heat      |8    |15	 |7	   |27    | 
-|Opponents |28   |30	 |21   |27    | 
+|Heat      |14   |27	 |9	   |32    | 
+|Opponents |35   |41	 |22   |30    | 
 
 
 ### Breakdown
@@ -24,17 +24,17 @@ title:  "Summary"
 |Name      |H    |BB   |K     |
 |:---------|:---:|:---:|:----:|
 |Carly     |-	   |3	   |5     | 
-|Faith	   |1	   |-	   |1     |
-|Maddy	   |1	   |2	   |3     |
-|Jorge	   |3	   |1	   |1     |
-|Elizabeth |5	   |-    |2     |
-|Alyssa	   |2	   |-	   |1     |
-|Kailey	   |1	   |-    |3     |
-|Skye	     |1	   |-    |2     |
-|Natelie	 |1	   |-    |2     |
-|Jaelyn	   |-	   |-	   |3     |
-|Olivia	   |-	   |1	   |3     |
-|Abby	     |-	   |-	   |1     |
+|Faith	   |2	   |-	   |2     |
+|Maddy	   |3	   |2	   |3     |
+|Jorge	   |4	   |1	   |1     |
+|Elizabeth |6	   |-    |3     |
+|Alyssa	   |3	   |1	   |1     |
+|Kailey	   |2	   |-    |4     |
+|Skye	     |2	   |-    |2     |
+|Natelie	 |3	   |1    |2     |
+|Jaelyn	   |1	   |-	   |3     |
+|Olivia	   |-	   |1	   |4     |
+|Abby	     |1	   |-	   |2     |
 |Sydney	   |-	   |-	   |-     |
 
 
@@ -52,5 +52,5 @@ title:  "Summary"
 |Name      | IP   | H   | BB  | K   |ER   |
 |:---------|:----:|:---:|:---:|:---:|:---:|
 | Jorge    |11.2  |20   |14   |17   |18   |
-| Kailey   |7.1   |8    |3    |6    |4    |
-| Skye     |1.2   |2    |4    |4    |4    |
+| Kailey   |12.2  |14   |4    |9    |4    |
+| Skye     |2.0   |7    |4    |4    |9    |
