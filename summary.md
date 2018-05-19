@@ -4,17 +4,17 @@ title:  "Summary"
 
 ## Summary
 
-* 5 Games Played
-* We held the other teams to 7 runs in all 5 games
-* Our average runs scored is 3
+* 6 Games Played
+* We held the other teams to 7 runs or less in all games
+* Our average runs scored is 3.8
 * Our pitchers gave up a lot more hits and walks, but K's are roughly equal
 
 ## Hitting (All Games)
 
 |Team      |R    |H    |BB   |K     |
 |:---------|:---:|:---:|:---:|:----:|
-|Heat      |14   |27	 |9	   |32    | 
-|Opponents |35   |41	 |22   |30    | 
+|Heat      |22   |33	 |12   |37    | 
+|Opponents |36   |46	 |24   |37    | 
 
 
 ### Breakdown
@@ -22,34 +22,36 @@ title:  "Summary"
 
 |Name      |H    |BB   |K     |
 |:---------|:---:|:---:|:----:|
-|Carly     |-	   |3	   |5     | 
+|Carly     |-	   |3	   |6     | 
 |Faith	   |2	   |-	   |2     |
-|Maddy	   |3	   |2	   |3     |
-|Jorge	   |4	   |1	   |1     |
+|Maddy	   |4	   |2	   |5     |
+|Jorge	   |6	   |1	   |2     |
 |Elizabeth |6	   |-    |3     |
-|Alyssa	   |3	   |1	   |1     |
+|Alyssa	   |4	   |2	   |1     |
 |Kailey	   |2	   |-    |4     |
-|Skye	     |2	   |-    |2     |
-|Natelie	 |3	   |1    |2     |
+|Skye	     |3	   |-    |2     |
+|Natelie	 |3	   |2    |3     |
 |Jaelyn	   |1	   |-	   |3     |
 |Olivia	   |-	   |1	   |4     |
 |Abby	     |1	   |-	   |2     |
-|Sydney	   |-	   |-	   |-     |
+|Sydney	   |1	   |1	   |-     |
 
 
 ## Pitching (All Games)
 
 |Team      | H   | BB  | K   | ER  |
 |:---------|:---:|:---:|:---:|:---:|
-|Heat      |41   |22   |30   |26   |
-|Opponents |27   |9    |32   |8    |
+|Heat      |46   |24   |37   |26   |
+|Opponents |33   |15   |37   |15    |
 
 
 ### Breakdown
 
 
-|Name      | IP   | H   | BB  | K   |ER   |
-|:---------|:----:|:---:|:---:|:---:|:---:|
-| Jorge    |11.2  |20   |14   |17   |18   |
-| Kailey   |12.2  |14   |4    |9    |4    |
-| Skye     |2.0   |7    |4    |4    |9    |
+|Name      | IP   | H   | BB  | K   |ER   |ERA   |
+|:---------|:----:|:---:|:---:|:---:|:---:|:----:|
+| Jorge    |15.2  |25   |16   |24   |18   |8.04  |
+| Kailey   |12.2  |14   |4    |9    |4    |2.21  |
+| Skye     |2.0   |7    |4    |4    |9    |31.5  |
+
+ERA = (Earned Runs / Innings Pitched) x 7
