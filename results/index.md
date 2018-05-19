@@ -49,8 +49,8 @@ permalink: /results/
 
 |Date  | Opponent | W/L | Score |
 |:----:|:--------|:----|:----|
-| 5/18  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 5/19  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 5/18  |Voodoo |<span style="color:red">L</span>|<span style="color:red">7-1</span>|
+| 5/19  |Xtreme Chaos |<span style="color:red">L</span>|<span style="color:red">7-6</span>|
 | 5/19  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
 | 5/20  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
 
