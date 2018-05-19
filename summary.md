@@ -22,19 +22,19 @@ title:  "Summary"
 
 |Name      |H    |BB   |K     |
 |:---------|:---:|:---:|:----:|
-|Carly     |-	   |3	   |6     | 
-|Faith	   |2	   |-	   |2     |
-|Maddy	   |4	   |2	   |5     |
 |Jorge	   |6	   |1	   |2     |
 |Elizabeth |6	   |-    |3     |
 |Alyssa	   |4	   |2	   |1     |
-|Kailey	   |2	   |-    |4     |
-|Skye	     |3	   |-    |2     |
+|Maddy	   |4	   |2	   |5     |
 |Natelie	 |3	   |2    |3     |
+|Skye	     |3	   |-    |2     |
+|Carly     |-	   |3	   |6     | 
+|Faith	   |2	   |-	   |2     |
+|Kailey	   |2	   |-    |4     |
+|Sydney	   |1	   |1	   |-     |
+|Abby	     |1	   |-	   |2     |
 |Jaelyn	   |1	   |-	   |3     |
 |Olivia	   |-	   |1	   |4     |
-|Abby	     |1	   |-	   |2     |
-|Sydney	   |1	   |1	   |-     |
 
 
 ## Pitching (All Games)
