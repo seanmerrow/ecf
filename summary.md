@@ -28,13 +28,14 @@ title:  "Summary"
 |Maddy	   |4	   |2	   |5     |
 |Natelie	 |3	   |2    |3     |
 |Skye	     |3	   |-    |2     |
-|Carly     |-	   |3	   |6     | 
 |Faith	   |2	   |-	   |2     |
 |Kailey	   |2	   |-    |4     |
 |Sydney	   |1	   |1	   |-     |
 |Abby	     |1	   |-	   |2     |
 |Jaelyn	   |1	   |-	   |3     |
+|Carly     |-	   |3	   |6     | 
 |Olivia	   |-	   |1	   |4     |
+
 
 
 ## Pitching (All Games)
