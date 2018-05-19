@@ -10,7 +10,7 @@ title:  "Summary"
 * Of only 12 hits, Eliz had 5 of them. Only one other player got more than 1
 * Our pitchers gave up a lot more hits and walks, but K's are equal
 
-## Hitting (All 3 Games)
+## Hitting (All Games)
 
 |Team      |R    |H    |BB   |K     |
 |:---------|:---:|:---:|:---:|:----:|
@@ -38,7 +38,7 @@ title:  "Summary"
 |Sydney	   |-	   |-	   |-     |
 
 
-## Pitching
+## Pitching (All Games)
 
 |Team      | H   | BB  | K   | ER  |
 |:---------|:---:|:---:|:---:|:---:|
