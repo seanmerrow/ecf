@@ -11,9 +11,7 @@ permalink: /results/
 |:----:|:--------|:----:|:----|
 |9/23|Rangers|<span style="color:red">L</span>|<span style="color:red">8-11</span>|
 |11/3|Rangers|<span style="color:green">W</span>|<span style="color:green">14-5</span>|
-|4/21|TBD|<span style="color:black">-</span>|<span style="color:black">-</span>|
-|4/21|TBD|<span style="color:black">-</span>|<span style="color:black">-</span>|
-|4/21|TBD|<span style="color:black">-</span>|<span style="color:black">-</span>|
+
 
 ## Tournaments
 
@@ -34,7 +32,7 @@ permalink: /results/
 
 ### Beverly Borrelli Memorial Tournament
 
-**Tournament Record:** x-y
+**Tournament Record:** 0-3
 
 |Date  | Opponent | W/L | Score |
 |:----:|:--------|:----|:----|
@@ -45,7 +43,7 @@ permalink: /results/
 
 ### Mass Destruction May Mayhem
 
-**Tournament Record:** x-y
+**Tournament Record:** 1-3
 
 |Date  | Opponent | W/L | Score |
 |:----:|:--------|:----|:----|
