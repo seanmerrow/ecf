@@ -15,7 +15,7 @@ permalink: /results/
 
 ## Tournaments
 
-**Season Record:** 3-2
+**Tournament Record:** 4-8
 
 ### Cannon's Fall Brawl
 
