@@ -51,8 +51,8 @@ permalink: /results/
 |:----:|:--------|:----|:----|
 | 5/18  |Voodoo |<span style="color:red">L</span>|<span style="color:red">7-1</span>|
 | 5/19  |Xtreme Chaos |<span style="color:red">L</span>|<span style="color:red">7-6</span>|
-| 5/19  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 5/20  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 5/19  |Lady Mavs |<span style="color:green">W</span>|<span style="color:green">8-1</span>|
+| 5/20  |Scream |<span style="color:red">L</span>|<span style="color:red">5-4</span>|
 
 
 ### Just Play It
@@ -61,9 +61,10 @@ permalink: /results/
 
 |Date  | Opponent | W/L | Score |
 |:----:|:--------|:----|:----|
-| 6/1  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 6/2  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 6/2  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 6/1  |Heat Blue |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 6/2  |Diamond Gems |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 6/2  |Hurricanes Red |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 6/2  |Rampage |<span style="color:black">-</span>|<span style="color:black">-</span>|
 | 6/3  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
 
 
