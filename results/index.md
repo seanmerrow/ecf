@@ -72,10 +72,10 @@ permalink: /results/
 
 |Date  | Opponent | W/L | Score |
 |:----:|:--------|:----|:----|
-| 6/8  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 6/9  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 6/9  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 6/10  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 6/9  |Lightening |<span style="color:red">L</span>|<span style="color:red">5-2</span>|
+| 6/9  |Hurri Salem Red |<span style="color:green">W</span>|<span style="color:green">8-4</span>|
+| 6/9  |Diamond Gems |<span style="color:green">W</span>|<span style="color:green">10-1</span>|
+| 6/10  |Diamond Gems |<span style="color:black">-</span>|<span style="color:black">-</span>|
 
 
 ### NH State Tournament
