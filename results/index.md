@@ -110,9 +110,9 @@ permalink: /results/
 
 |Date  | Opponent | W/L | Score |
 |:----:|:--------|:----|:----|
-| 7/13  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 7/14  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 7/14  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 7/14  |TC Tremors |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 7/14  |Diamonds Blue |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 7/14  |Swansea Xtreme |<span style="color:black">-</span>|<span style="color:black">-</span>|
 | 7/15  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
 
 
