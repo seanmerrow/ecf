@@ -55,27 +55,29 @@ permalink: /results/
 
 ### Just Play It
 
-**Tournament Record:** x-y
+**Tournament Record:** 4-1
 
 |Date  | Opponent | W/L | Score |
 |:----:|:--------|:----|:----|
-| 6/1  |Heat Blue |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 6/2  |Diamond Gems |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 6/2  |Hurricanes Red |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 6/2  |Rampage |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 6/3  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 6/1  |Heat Blue |<span style="color:green">W</span>|<span style="color:green">13-0</span>|
+| 6/2  |Diamond Gems |<span style="color:green">W</span>|<span style="color:green">3-1</span>|
+| 6/2  |Hurricanes Red |<span style="color:green">W</span>|<span style="color:green">6-1</span>|
+| 6/2  |Rampage |<span style="color:green">W</span>|<span style="color:green">14-8</span>|
+| 6/3  |Show |<span style="color:red">L</span>|<span style="color:red">8-4</span>|
 
 
 ### Cannon’s Start to Summer
 
-**Tournament Record:** x-y
+**Tournament Record:** 5-1 - <span style="color:green">Champions</span>
 
 |Date  | Opponent | W/L | Score |
 |:----:|:--------|:----|:----|
 | 6/9  |Lightening |<span style="color:red">L</span>|<span style="color:red">5-2</span>|
 | 6/9  |Hurri Salem Red |<span style="color:green">W</span>|<span style="color:green">8-4</span>|
 | 6/9  |Diamond Gems |<span style="color:green">W</span>|<span style="color:green">10-1</span>|
-| 6/10  |Diamond Gems |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 6/10  |Diamond Gems |<span style="color:green">W</span>|<span style="color:green">10-1</span>|
+| 6/10  |Lightening |<span style="color:green">W</span>|<span style="color:green">7-2</span>|
+| 6/10  |Hurri Salem Red |<span style="color:green">W</span>|<span style="color:green">7-4</span>|
 
 
 ### NH State Tournament
@@ -84,9 +86,9 @@ permalink: /results/
 
 |Date  | Opponent | W/L | Score |
 |:----:|:--------|:----|:----|
-| 6/22  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 6/23  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 6/23  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 6/22  |Lightening |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 6/23  |Blast |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 6/23  |Hurric Salem Blue |<span style="color:black">-</span>|<span style="color:black">-</span>|
 | 6/24  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
 
 
