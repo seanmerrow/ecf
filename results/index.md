@@ -86,10 +86,10 @@ permalink: /results/
 
 |Date  | Opponent | W/L | Score |
 |:----:|:--------|:----|:----|
-| 6/22  |Lightening |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 6/23  |Blast |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 6/23  |Hurric Salem Blue |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 6/24  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 6/22  |Lightening |<span style="color:black">T</span>|<span style="color:black">2-2</span>|
+| 6/23  |Blast |<span style="color:green">W</span>|<span style="color:green">13-9</span>|
+| 6/23  |Hurric Salem Blue |<span style="color:red">L</span>|<span style="color:red">6-2</span>|
+| 6/24  |Lady Mavs |<span style="color:black">-</span>|<span style="color:black">-</span>|
 
 
 ### MWV Classic 7th Annual
