@@ -98,9 +98,9 @@ permalink: /results/
 
 |Date  | Opponent | W/L | Score |
 |:----:|:--------|:----|:----|
-| 6/29  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 6/30  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
-| 6/30  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 6/29  |NH Lightning |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 6/29  |Sea Hurricanes |<span style="color:black">-</span>|<span style="color:black">-</span>|
+| 6/30  |Blue Angels |<span style="color:black">-</span>|<span style="color:black">-</span>|
 | 7/1  |TBD |<span style="color:black">-</span>|<span style="color:black">-</span>|
 
 
