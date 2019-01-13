@@ -4,7 +4,7 @@ bio:            'ECF Gold 14U'
 description:    "Some wish for success, while others work for it!"
 picture:        'assets/img/ecf.jpg'
 locale:         en_US
-url:            //seanmerrow.github.io/ecf/
+url:            //seanmerrow.github.io/ecf
 categories:     [tournament, player, coach, field]
 
 
