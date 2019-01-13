@@ -4,8 +4,8 @@ title: Practices
 description: Practice Schedule
 excerpt: "Practice Schedule"
 ---
-**Location:** NLA - Manchester
-**Time:** 6-8 PM
+* **Location:** NLA - Manchester
+* **Time:** 6-8 PM
 
 | Date | Time     | Defense | Offense |
 |:---  |:---      |:---     |:---     |
