@@ -7,8 +7,8 @@ excerpt: "Practice Schedule"
 * **Location:** NLA - Manchester
 * **Time:** 6-8 PM
 
-| Date | Time     | Defense | Offense |
-|:---  |:---      |:---     |:---     |
+| Date | Defense | Offense |
+|:---  |:---     |:---     |
 | 1/6  | Infield fund   | Hitting fund |
 | 1/13  | Bunting   | Opposite field hitting |
 | 1/20  | Throw-downs, pitching   | Hitting change-ups |
