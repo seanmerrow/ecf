@@ -1,10 +1,10 @@
 # Site
-title:          Heat Gold
-bio:            'Northeast Heat Gold 12U'
-description:    "If you can't take the Heat, stay off the field!"
-picture:        'assets/img/heat.jpg'
+title:          ECF Gold
+bio:            'ECF Gold 14U'
+description:    "Some wish for success, while others work for it!"
+picture:        'assets/img/ecf.jpg'
 locale:         en_US
-url:            //seanmerrow.github.io/heatgold
+url:            //seanmerrow.github.io/ecf
 categories:     [tournament, player, coach, field]
 
 
