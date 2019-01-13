@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The 12U Heat Gold Team"
-excerpt: "12U NE Heat Gold Team"
+title:  "14U ECF Gold Team"
+excerpt: "14U ECF Gold Team"
 permalink: /coaches/
 ---
 # Players
@@ -9,30 +9,22 @@ permalink: /coaches/
 |No    | Player          |
 |:----:|:----------------|
 | 1    |Kailey Disco     |
-| 2    |Alyssa Abbott    |
-| 4    |Elizabeth Rugg   |
-| 5    |Carly DiMento    |
-| 6    |Faith Cestrone   |
-| 7    |Maddy Bradish    |
+| 4    |Ashlyn Cassetty  |
+| 5    |Fallon O'Connor  |
+| 6    |Ruby Wilson      |
+| 7    |Makayla Strickulis    |
 | 9    |Skye Merrow      |
-| 11   |Jaelyn Green     |
-| 12   |Natalie Camerano |
-| 17   |Olivia Rock      |
-| 21   |Abby St. Laurent |
-| 27   |Sydney Poor |
-| 42   |Isabella 'Jorge' Shaffer|
+| 11   |Maggie Boyd      |
+| 12   |Emma Camberlain |
+| 13   |Lily Mason      |
+| 14   |Grace Lawton    |
+| 16   |Morgan Goodspeed |
+| 21   |Olivia Mason    |
 
-# Coaches
-### Head Coach
-**Jimmy Cestrone**
-* [603-966-8041](tel:+1-603-966-8041)
-* [jamces6@comcast.net](mailto:jamces6@comcast.net)
 
-### Assistant Coaches
-**Glen Bradish**
-* [603-714-1928](tel:+1-603-714-1928)
-* [gbradish@myfairpoint.net](mailto:gbradish@myfairpoint.net)
+# Head Coach
 
-**Brian Rock**
-* [978-866-4785](tel:+1-978-866-4785)
-* [brocknh75@outlook.com](mailto:brocknh75@outlook.com)
+**Holly Kathios**
+* [603-508-9874](tel:+1-603-508-9874)
+* [holly.kathios@salve.edu](mailto:holly.kathios@salve.edu)
+
