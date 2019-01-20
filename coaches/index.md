@@ -6,6 +6,22 @@ permalink: /coaches/
 ---
 # Players
 
+|No    | Player          | Parent(s)   |
+|:----:|:----------------|:-----------------|
+| 1    |Kailey Disco     |Marcelle & Mike   |
+| 2    |Maggie Boyd      |Georgie & Matt    |
+| 4    |Ashlyn Cassetty  |Gwyn & Chuck      |
+| 5    |Fallon O'Connor  |Tom               |
+| 6    |Ruby Wilson      |Amy & Sean        |
+| 7    |Makayla Strickulis    |Casey & Jim  |
+| 9    |Skye Merrow      | Karen & Sean     |
+| 12   |Emma Camberlain  | Kathy & Bob
+| 13   |Lily Mason       | Anne & Bill      |
+| 14   |Grace Lawton     | Judey & Jeremy   |
+| 16   |Morgan Goodspeed | Nancy & Marc     |
+| 21   |Olivia Mason     | Anne & Bill      |
+
+
 |No    | Player          |
 |:----:|:----------------|
 | 1    |Kailey Disco     |
