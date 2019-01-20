@@ -33,3 +33,7 @@ permalink: /coaches/
 * Assistant Coach
 * [linda@kathios.com](mailto:linda@kathios.com)
 
+**Tom O'Connor**
+* Assistant Coach
+* [tfoconnor86@gmail.com](mailto:tfoconnor86@gmail.com)
+
