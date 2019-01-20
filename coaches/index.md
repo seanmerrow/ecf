@@ -6,7 +6,7 @@ permalink: /coaches/
 ---
 # Players
 
-|No    | Player               | Parent(s)        |
+|No    | Player               | Parents          |
 |:----:|:---------------------|:-----------------|
 | 1    |Kailey Disco          | [Marcelle](mailto:mjdisco@aol.com) & [Mike](sleak52@yahoo.com)   |
 | 2    |Maggie Boyd           | [Georgie](mailto:georgie@arc2arc.com) & [Matt](mailto:matt@arc2arc.com)    |
