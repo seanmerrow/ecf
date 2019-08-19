@@ -6,7 +6,8 @@ excerpt: "Practice Schedule"
 ---
 ## Location
 * Plainville Athletic League Complex
-* 35 Everett Skinner Rd, Plainville, MA 02762
+* 35 Everett Skinner Rd
+* Plainville, MA 02762
 * [Google Map](https://goo.gl/maps/kf3tWgF2v9Q4ghb67)
 
 ## Schedule
