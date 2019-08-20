@@ -1,7 +1,8 @@
 ---
-layout: post-index
-title: All Posts
-excerpt: "A List of Posts"
+layout: post
+title:  "The Thunder Way"
+excerpt: "The Thunder Way"
+permalink: /blog/
 ---
 The Rhode Island Thunder has been around for over 20 years. It is a premier softball program that focuses on developing the players and helping them to land a position on a college softball team. The Thunder is a very disciplined orginiztion. Below are some tips for success with the Thunder, otherwise known as 'The Thunder Way'.
 
