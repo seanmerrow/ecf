@@ -2,7 +2,7 @@
 title:          18U Premier
 bio:            '18U Thunder Premier'
 description:    "Some wish for success, while others work for it!"
-picture:        'assets/img/thunder.png'
+picture:        'assets/img/thunder.jpg'
 locale:         en_US
 url:            //seanmerrow.github.io/thunder
 categories:     [tournament, player, coach, field]
