@@ -1,10 +1,10 @@
 # Site
-title:          14U Gold
-bio:            'ECF Gold 14U'
+title:          18U Premier
+bio:            '18U Thunder Premier'
 description:    "Some wish for success, while others work for it!"
-picture:        'assets/img/ecf.jpg'
+picture:        'assets/img/thunder.jpg'
 locale:         en_US
-url:            //seanmerrow.github.io/ecf
+url:            //seanmerrow.github.io/thunder
 categories:     [tournament, player, coach, field]
 
 
