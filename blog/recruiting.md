@@ -25,7 +25,7 @@ permalink: /blog/recruiting.md
 * Read the coaches bio... Recognize milestone, big wins, etc.
 * Same for asst coaches. Show then you're paying attention and care
 
-College Camps
+## College Camps
 * All camp invitations should be run through your coach, especially if it is not local
 * Some are just revenue makers
 * Thunder coaches can reach out ahead of time to camp coaches to alerts then if your attendance
