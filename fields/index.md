@@ -38,7 +38,6 @@ Bob Rossi and Dave Lotti did most of the speaking
 * **Do:** Try to visit schools near the tourney when you're traveling
 * **Do:** Neatly hang Helmets and bags at games
 * **Do:** Keep uniforms neat and tucked in when worn and folded neatly when not worn
-
 * **Don't:** be negative
 * **Don't:** Wear any college apparel or gear from a college that you're not already committed to
 
