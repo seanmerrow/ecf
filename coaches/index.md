@@ -16,11 +16,11 @@ permalink: /coaches/
 | 20   |Emma Camberlain       | Kathy & [Bob](mailto:robert.camberlain@kodak.com)
 | 17   |Lily Mason            | [Ann](mailto:annmason@trugreenmail.com) & [Bill](mailto:wcmjr@comcast.net)      |
 | 28   |Grace Lawton          | [Judy](mailto:jlsgoodtimes@gmail.com) & Jeremy   |
-| ?    |Morgan Goodspeed      | [Nancy](mailto:nancy.goodspeed@eversource.com) & [Marc](mailto:marcgoodspeed@comcast.net)     |
+| 26   |Morgan Goodspeed      | [Nancy](mailto:nancy.goodspeed@eversource.com) & [Marc](mailto:marcgoodspeed@comcast.net)     |
 | 30   |Olivia Mason          | [Ann](mailto:annmason@trugreenmail.com) & [Bill](mailto:wcmjr@comcast.net)      |
 | 3    |Celia Torino          | [Dena](mailto:denatorino@gmail.com) & [Chris](mailto:cjtori01@gmail.com)  |
 | 7    |Julia D'Amore         | [Tish](mailto:tishd32@cox.net) |
-| ?    |Megan                 | [Mom](mailto:mom) & [Dad](mailto:dad) |
+| 16   |Megan                 | [Mom](mailto:mom) & [Dad](mailto:dad) |
 | 21   |Karissa Spring        | [Paula](mailto:pspring28@yahoo.com) & [Kevin](mailto:kspring27@yahoo.com)
 
 
