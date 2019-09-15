@@ -3,7 +3,7 @@ layout: post
 title: Recruiting
 ---
 
-Speakers
+# Speakers
 Bob Rossi and Dave Lotti did most of the speaking
 
 
@@ -33,19 +33,20 @@ Some are just revenue makers
 Thunder coaches can reach out ahead of time to camp coaches to alerts then if your attendance
 At camps, introduce yourself. Then say thank you at the end. Leave them with a good impression of yourself
 
-Do: Be very very careful what you put on social media. If Gramma would be embarrassed, don't post it.
-Do: talk, communicate, be loud on the field. Be a coach on the field
-Do: How do you handle failure? Handle it with grace, be positive. 
-Do: Behave at hotels, somebody maybe spying on you and watching your behavior
-Do: Try to visit schools near the tourney when you're traveling
+# Do's and Don'ts
+**Do:** Be very very careful what you put on social media. If Gramma would be embarrassed, don't post it.
+**Do:** talk, communicate, be loud on the field. Be a coach on the field
+**Do:** How do you handle failure? Handle it with grace, be positive. 
+**Do:** Behave at hotels, somebody maybe spying on you and watching your behavior
+**Do:** Try to visit schools near the tourney when you're traveling
 
-Don't: be negative
-Don't: Wear any college apparel or gear from a college that you're not already committed to
+**Don't:** be negative
+**Don't:** Wear any college apparel or gear from a college that you're not already committed to
 
-Parents
-Parents should be team parents, and not focus too much on their kid. Be a party a college would like to have in the stands
-Parents should not critique their kid during our after the game. Keep it private (at the hotel room)
-Parents should be as positive as possible with everyone (players coaches and other parents)
+# Parents
+* Parents should be team parents, and not focus too much on their kid. Be a party a college would like to have in the stands
+* Parents should not critique their kid during our after the game. Keep it private (at the hotel room)
+* Parents should be as positive as possible with everyone (players coaches and other parents)
 
 
 
