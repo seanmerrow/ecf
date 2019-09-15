@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Recruiting
+title:  "Recruiting"
+excerpt: "Recruiting"
+permalink: /fields/
 ---
 
 # Speakers
