@@ -38,7 +38,6 @@ category:
   
 ## Schedule
 **<span style="color:red">Be at the field 1 hour before each game.</span>**
-* 1h 30m time limit (drop dead)
 
 ### Friday
 | Time     | Opponent       | Field |
