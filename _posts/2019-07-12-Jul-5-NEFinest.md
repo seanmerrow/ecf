@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oct 19-20 - NE's Finest
+title: Jul 30-2 NE Finest
 description: NE's Finest
 excerpt: "NE's Finest"
 tag:
@@ -9,8 +9,8 @@ category:
 - tournament
 ---
 * **Name:** NE's Finest
-* **Dates:** October 19-20
-* [Tournament Link](https://www.nefinestfallshowcase.com/finest-fall-showcase.cfm)
+* **Dates:** Jul 30 - Aug 2
+* [Tournament Link](https://www.nefinestshowcase.com/showcase-tournament.cfm)
 
 ## Locations
 
@@ -27,18 +27,26 @@ category:
 ## Schedule
 **<span style="color:red">Be at the field 1 hour before each game.</span>**
 
+### Thursday
+
+| Time | Opponent | Field |
+|:---      |:---   |:---  |
+| TBD     | TBD   |TBD   |
+
+### Friday
+
+| Time | Opponent | Field |
+|:---      |:---   |:---  |
+| TBD     | TBD   |TBD   |
+
 ### Saturday
 
 | Time | Opponent | Field |
 |:---      |:---   |:---  |
-| 10:05      | Raiders   |Eisele   |
-| 1:15      | MA Dynamite   |Rice 1   |
-| 4:25      | Polar Crush Pr   |Watters   |
+| TBD     | TBD   |TBD   |
 
 ### Sunday
 
 | Time | Opponent | Field |
 |:---      |:---   |:---  |
-| 11:10      | Fire N Ice   |Eisele   |
-| 2:20      | Rebels Gold   |Watters   |
-| 3:55      | Xtreme Gold   |Watters   |
+| TBD     | TBD   |TBD   |
