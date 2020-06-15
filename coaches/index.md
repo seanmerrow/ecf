@@ -34,4 +34,7 @@ permalink: /coaches/
 * [603-508-9874](tel:+1-603-508-9874)
 * [holly.kathios@salve.edu](mailto:holly.kathios@salve.edu)
 
+**Nikki Vanelli**
+* Assistant Coach
+
 
