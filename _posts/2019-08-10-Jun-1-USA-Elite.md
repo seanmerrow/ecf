@@ -40,6 +40,7 @@ category:
 **<span style="color:red">Be at the field 1 hour before each game.</span>**
 
 ### Friday
+
 | Time     | Opponent       | Field |
 |:---      |:---            |:---   |
 | TBD      | TBD            |TBD    |
