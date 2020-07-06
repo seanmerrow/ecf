@@ -14,11 +14,9 @@ permalink: /coaches/
 | 4    |Ashlyn Cassetty       | [Gwyn](mailto:gcassetty@gmail.com), [Chuck](mailto:cmatthewssr@icloud.com) & [Tom](mailto:thomascassetty@gmail.com)     |
 | 5    |Fallon O'Connor       | [Lisa](mailto:laoconnor04@hotmail.com) & [Tom](mailto:tfoconnor86@gmail.com)               |
 | 6    |Ruby Wilson           | [Amy](mailto:amytwilson03@gmail.com) & [Sean](mailto:swilwil@yahoo.com)        |
-| 7    |Julia D'Amore         | [Tish](mailto:tishd32@cox.net) |
 | 9    |Skye Merrow           | [Karen](mailto:kmerrow@msn.com) & [Sean](mailto:seanmerrow@gmail.com)     |
 | 16   |Megan Hart            | [Sue](mailto:mom) & [Tom](mailto:cstmhart@verizon.net) |
 | 17   |Lily Mason            | [Ann](mailto:annmason@trugreenmail.com) & [Bill](mailto:wcmjr@comcast.net)      |
-| 20   |Emma Camberlain       | [Kathy](mailto:rabbittof3@gmail.com) & [Bob](mailto:robert.camberlain@kodak.com)
 | 21   |Karissa Spring        | [Paula](mailto:pspring28@yahoo.com) & [Kevin](mailto:kspring27@yahoo.com) |
 | 24   |Victoria Seppala      | Mom & Dad |
 | 26   |Morgan Goodspeed      | [Nancy](mailto:nancy.goodspeed@eversource.com) & [Marc](mailto:marcgoodspeed@comcast.net)     |
