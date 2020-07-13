@@ -16,14 +16,6 @@ category:
 * 485 Burritt St, Plantsville, CT 06479
 * [Google Maps](https://goo.gl/maps/6YwPsAaRaTtFcKC17)
 
-### **Thorpe Ave Softball Complex**
-* 402 Thorpe Ave. Meriden, CT 06450
-* [Google Maps](https://goo.gl/maps/EjKQsx5bPvvNqhhD9)
-
-### **North Haven Complex ( Maple Ave)**
-* 222 Maple Ave, North Haven, CT 06473
-* [Google Maps](https://goo.gl/maps/QyG31jChqXyXd1yj9)
-
 ### **Pragemann Park**
 * 31 Oak St. Wallingford, CT 06492
 * [Google Maps](https://goo.gl/maps/e8Cy8nZuvtRxARj36)
@@ -43,18 +35,17 @@ category:
 
 | Time     | Opponent       | Field |
 |:---      |:---            |:---   |
-| TBD      | TBD            |TBD    |
+| 1:00      | LI Heat Gold  |Pragg 6 |
+| 5:00      | LI Express  |Panth 1 |
 
 ### Saturday
 
 | Time     | Opponent       | Field |
 |:---      |:---            |:---   |
-| TBD      | TBD            |TBD    |
-| TBD      | TBD            |TBD    |
-| TBD      | TBD            |TBD    |
+| 5:00      | Eliminators  |Pragg 6 |
+| 6:30      | Lightenging  |Pragg 5 |
+| 8:15      | Lightening Rog  |Pragg 2    |
 
 ### Sunday
 
-| Time | Opponent | Field |
-|:---      |:---   |:---  |
-| TBD      | TBD            |TBD    |
+No Games
