@@ -9,7 +9,7 @@ category:
 - tournament
 ---
 * **Name:** USA Elite
-* **Dates:** July 17-19
+* **Dates:** July 17-18
 
 ## Games Locations
 ### **Panthorn Park**
@@ -43,7 +43,7 @@ category:
 | Time     | Opponent       | Field |
 |:---      |:---            |:---   |
 | 5:00      | Eliminators  |Pragg 6 |
-| 6:30      | Lightenging  |Pragg 5 |
+| 6:30      | Lightening  |Pragg 5 |
 | 8:15      | Lightening Rog  |Pragg 2    |
 
 ### Sunday
