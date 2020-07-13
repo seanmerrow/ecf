@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jul 17-19 USA Elite
+title: Jul 17-18 USA Elite
 description: USA Elite
 excerpt: "USA Elite"
 tag:
