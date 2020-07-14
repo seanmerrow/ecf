@@ -28,7 +28,7 @@ category:
 **<span style="color:red">Be at the field 1 hour before each game.</span>**
 
 ### Thursday
-* [New England's Finest Summer Exposure Clinic | North](https://www.nefinestshowcase.com/summer-exposure-camp2020.cfm)
+* [NE's Finest Summer Clinic](https://www.nefinestshowcase.com/summer-exposure-camp2020.cfm)
 * Plainville Athletic League Complex
 
 | Start | End   | Position     |
