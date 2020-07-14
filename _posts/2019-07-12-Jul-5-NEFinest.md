@@ -28,10 +28,14 @@ category:
 **<span style="color:red">Be at the field 1 hour before each game.</span>**
 
 ### Thursday
+* [New England's Finest Summer Exposure Clinic | North](https://www.nefinestshowcase.com/summer-exposure-camp2020.cfm)
+* Plainville Athletic League Complex
 
-| Time | Opponent | Field |
-|:---      |:---   |:---  |
-| TBD     | TBD   |TBD   |
+| Start | End   | Position     |
+|:---   |:---   |:---          |
+|7:30   | 9:55  | OF / Catchers|
+|10:30  | 12:55 | Pitchers     |
+|1:30   | 4:00  | Infielders   |
 
 ### Friday
 
