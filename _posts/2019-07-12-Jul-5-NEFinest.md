@@ -38,12 +38,14 @@ category:
 |1:30   | 4:00  | Infielders   |
 
 ### Friday
+* William A Rice Rec Complex
 
 | Time     | Opponent    | Field   |
 |:---      |:---         |:---     |
 | 9:55     | NE Storm    |Rice 1   |
 
 ### Saturday
+* William A Rice Rec Complex
 
 | Time     | Opponent        | Field   |
 |:---      |:---             |:---     |
@@ -52,6 +54,7 @@ category:
 
 
 ### Sunday
+* Plainville Athletic League Complex
 
 | Time     | Opponent        | Field   |
 |:---      |:---             |:---     |
