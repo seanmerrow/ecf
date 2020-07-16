@@ -39,18 +39,22 @@ category:
 
 ### Friday
 
-| Time | Opponent | Field |
-|:---      |:---   |:---  |
-| TBD     | TBD   |TBD   |
+| Time     | Opponent    | Field   |
+|:---      |:---         |:---     |
+| 9:55     | NE Storm    |Rice 1   |
 
 ### Saturday
 
-| Time | Opponent | Field |
-|:---      |:---   |:---  |
-| TBD     | TBD   |TBD   |
+| Time     | Opponent        | Field   |
+|:---      |:---             |:---     |
+| 3:30     | CT Hornets      |Rice 1   |
+| 5:05     | CT Eliminators  |Rice 1   |
+
 
 ### Sunday
 
-| Time | Opponent | Field |
-|:---      |:---   |:---  |
-| TBD     | TBD   |TBD   |
+| Time     | Opponent        | Field   |
+|:---      |:---             |:---     |
+| 11:30    | ME Thunder      |Watters   |
+| 1:05     | Polar Crush Pre |Watters   |
+
