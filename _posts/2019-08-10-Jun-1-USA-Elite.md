@@ -28,13 +28,17 @@ category:
 * East Hartford, CT 06108
 * [Google Maps](https://goo.gl/maps/Si2JvMFhtZJ8awme6)
   
-## Schedule
-**<span style="color:red">Be at the field 1 hour before each game.</span>**
+## Pre-Game Warm-up
+* Cheshire High School
+* 525 S Main St
+* Cheshire, CT 06410
+* [Google Maps](https://goo.gl/maps/cQjN8UbWzLnZx7dY6)
 
 ### Friday
 
 | Time     | Opponent       | Field |
 |:---      |:---            |:---   |
+| 11:00    | Cheshire HS    |  -    |
 | 1:00      | LI Heat Gold  |Pragg 6 |
 | 5:00      | LI Express  |Panth 1 |
 
@@ -42,6 +46,7 @@ category:
 
 | Time     | Opponent       | Field |
 |:---      |:---            |:---   |
+| 3:00     | Cheshire HS    |  -    |
 | 5:00      | Eliminators  |Pragg 6 |
 | 6:30      | Lightening  |Pragg 5 |
 | 8:15      | Lightening Rog  |Pragg 2    |
