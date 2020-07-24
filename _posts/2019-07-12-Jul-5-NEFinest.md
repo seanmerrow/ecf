@@ -33,9 +33,9 @@ category:
 
 | Start | End   | Position     |
 |:---   |:---   |:---          |
-|7:30   | 9:55  | OF / Catchers|
-|10:30  | 12:55 | Pitchers     |
-|1:30   | 4:00  | Infielders   |
+|9:00   | 11:00  | OF / Catchers|
+|11:30  | 1:30 | Pitchers     |
+|2:00   | 4:00  | Infielders   |
 
 ### Friday
 * William A Rice Rec Complex
