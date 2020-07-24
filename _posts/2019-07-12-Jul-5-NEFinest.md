@@ -42,7 +42,7 @@ category:
 
 | Time     | Opponent    | Field   |
 |:---      |:---         |:---     |
-| 9:55     | NE Storm    |Rice 1   |
+| 9:00     | NE Storm Burke    |Rice 1   |
 
 ### Saturday
 * William A Rice Rec Complex
