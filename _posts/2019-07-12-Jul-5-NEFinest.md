@@ -33,14 +33,14 @@ category:
 |2:00   | 4:00  | Infielders   |
 
 ### Friday
-* William A Rice Rec Complex
+* Plainville Athletic League Complex
 
 | Time     | Opponent    | Field   |
 |:---      |:---         |:---     |
 | 1:50    | CNY Monsters    |Nelson   |
 
 ### Saturday
-* William A Rice Rec Complex
+* Plainville Athletic League Complex
 
 | Time     | Opponent        | Field   |
 |:---      |:---             |:---     |
