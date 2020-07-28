@@ -19,11 +19,6 @@ category:
 * Plainville, MA 02762
 * [Google Maps](https://goo.gl/maps/wzoKXBdTAmmHkfTEA)
 
-### William A Rice Rec Complex
-* 54 Emerald St
-* Wrentham, MA 02093
-* [Google Maps](https://goo.gl/maps/X71aESXzykkGdMZk7)
-  
 ## Schedule
 **<span style="color:red">Be at the field 1 hour before each game.</span>**
 
@@ -42,22 +37,22 @@ category:
 
 | Time     | Opponent    | Field   |
 |:---      |:---         |:---     |
-| 9:00     | NE Storm Burke    |Rice 1   |
+| 1:50    | CNY Monsters    |Nelson   |
 
 ### Saturday
 * William A Rice Rec Complex
 
 | Time     | Opponent        | Field   |
 |:---      |:---             |:---     |
-| 3:30     | CT Hornets      |Rice 1   |
-| 5:05     | CT Eliminators  |Rice 1   |
+| 11:30    | Polar Crush Elt |Watters  |
+| 1:05     | Polar Crush Elt |Watters  |
 
 
 ### Sunday
 * Plainville Athletic League Complex
 
-| Time     | Opponent        | Field   |
-|:---      |:---             |:---     |
-| 11:30    | ME Thunder      |Watters   |
-| 1:05     | Polar Crush Pre |Watters   |
+| Time     | Opponent         | Field   |
+|:---      |:---              |:---     |
+| 11:30    | Raiders Prm Gold |Watters  |
+| 1:05     | Raiders Prm Gold |Watters  |
 
