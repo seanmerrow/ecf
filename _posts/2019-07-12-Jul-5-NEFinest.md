@@ -26,11 +26,11 @@ category:
 * [NE's Finest Summer Clinic](https://www.nefinestshowcase.com/summer-exposure-camp2020.cfm)
 * Plainville Athletic League Complex
 
-| Start | End   | Position     |
-|:---   |:---   |:---          |
+| Start | End    | Position     |
+|:---   |:---    |:---          |
 |9:00   | 11:00  | OF / Catchers|
-|11:30  | 1:30 | Pitchers     |
-|2:00   | 4:00  | Infielders   |
+|12:30  | 2:15   | Pitchers     |
+|3:00   | 5:00   | Infielders   |
 
 ### Friday
 * Plainville Athletic League Complex
