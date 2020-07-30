@@ -42,10 +42,10 @@ category:
 ### Saturday
 * Plainville Athletic League Complex
 
-| Time     | Opponent        | Field   |
-|:---      |:---             |:---     |
-| 11:30    | Polar Crush Elt |Watters  |
-| 1:05     | Polar Crush Elt |Watters  |
+| Time     | Opponent         | Field   |
+|:---      |:---              |:---     |
+| 7:30     | RES Angels Halos |Watters  |
+| 9:05     | RES Angels Halos |Watters  |
 
 
 ### Sunday
