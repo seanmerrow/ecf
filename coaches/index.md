@@ -14,7 +14,7 @@ permalink: /coaches/
 | 8    |Christin Napeirkowski      | |
 | 9    |Erika MacLeod         |Kim & Todd |
 | 10   |Izzy Faessler         |Scott |
-| 11   |Ashleigh Aboshar      | |
+| 11   |Ashleigh Aboshar      |Molly & Brian |
 | 12   |Sam Wiberg            | |
 | 14   |Erica Hutchinson       | Maura|
 | 16   |Jasmine Moskowitz      | Cynthia & Dan|
