@@ -13,13 +13,13 @@ permalink: /coaches/
 | 7    |Kyleigh Gray          | Shelby & Dave|
 | 8    |Christin Napeirkowski      | |
 | 9    |Erika MacLeod         |Kim & Todd |
-| 10   |Izzy Faessler         |Scott |
+| 10   |Izzy Faessler         |Lee Ann & Scott |
 | 11   |Ashleigh Aboshar      |Molly & Brian |
-| 12   |Sam Wiberg            | |
+| 12   |Sam Wiberg            |Lori |
 | 14   |Erica Hutchinson       | Maura|
 | 16   |Jasmine Moskowitz      | Cynthia & Dan|
 | 17   |Marah Goldman          |Alex|
-| 21   |Caity Lemay            | Karen & Chris |
+| 21   |Caity Lemay            | Caryn & Chris |
 | 99   |Paige Fitzgerald       |Mark |
 
 
