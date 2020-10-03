@@ -1,10 +1,10 @@
 # Site
-title:          18U Premier
-bio:            '18U Thunder Premier'
+title:          18U Prospects
+bio:            '18U Prospects'
 description:    "Some wish for success, while others work for it!"
-picture:        'assets/img/thunder.jpg'
+picture:        'assets/img/prospects.jpg'
 locale:         en_US
-url:            //seanmerrow.github.io/thunder
+url:            //seanmerrow.github.io/prospects
 categories:     [tournament, player, coach, field]
 
 
