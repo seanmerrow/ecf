@@ -30,7 +30,7 @@ permalink: /coaches/
 * [603-785-7797](tel:+1-603-785-7797)
 * [steve@prospectssoftball.com](mailto:steve@prospectssoftball.com)
 
-**Emily Kraytenbert**
+**Emily Kraytenberg**
 * Assistant Coach
 
 
