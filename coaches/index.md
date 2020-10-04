@@ -11,7 +11,7 @@ permalink: /coaches/
 | 2    |Maddy Schoenenberger  |Eric |
 | 6    |Skye Merrow           |Karen & Sean |
 | 7    |Kyleigh Gray          | Shelby & Dave|
-| 8    |Christin Napeirkowski      | |
+| 8    |Christin Napierkowski |Cyndi & Mark |
 | 9    |Erika MacLeod         |Kim & Todd |
 | 10   |Izzy Faessler         |Lee Ann & Scott |
 | 11   |Ashleigh Aboshar      |Molly & Brian |
